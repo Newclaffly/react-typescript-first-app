@@ -26,9 +26,9 @@
 
 .App-link {
   color: #61dafb;
-}
+} 
 
-@keyframes App-logo-spin {
+ @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
@@ -47,3 +47,15 @@
   width: 100%;
 }
 
+.list-car-item{
+  width: 700px;
+  height: 180px;
+  background-color: lightgray;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.list-car-item h3{
+ margin: 10px;
+}
